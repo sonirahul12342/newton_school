@@ -4,6 +4,7 @@ public static void  main(String args[])
 { //master commit
 
 { //sidebar commit
+/*
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> sidebar
@@ -22,7 +23,7 @@ public static void  main(String args[])
 ||||||| merged common ancestors
 >>>>>>>>> Temporary merge branch 2
 =======
->>>>>>> foot
+>>>>>>> foot*/
    // your code here
    System.out.print("Hello World");
 }
