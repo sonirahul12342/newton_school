@@ -6,6 +6,7 @@ public static void  main(String args[])
 { //sidebar commit
 /*
 <<<<<<< HEAD
+one more cahnge to master
 <<<<<<< HEAD
 >>>>>>> sidebar
 ||||||| merged common ancestors
