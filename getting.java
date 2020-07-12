@@ -8,6 +8,11 @@ public static void  main(String args[])
 =======
 
 { //sidebar commit
+<<<<<<< HEAD
+>>>>>>> sidebar
+||||||| merged common ancestors
+=======
+   // hello foot
 >>>>>>> sidebar
    // your code here
    System.out.print("Hello World");
